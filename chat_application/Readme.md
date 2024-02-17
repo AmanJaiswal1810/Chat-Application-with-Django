@@ -1,0 +1,2 @@
+Hey guys, very glad to share my new project. Today i completed a chat room application project using Django and Ajax. This project works like a regular chat app where you can share messages withreal time upadte.
+ 
